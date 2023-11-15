@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedditApp</string>
+
+    <string name="connectivity_exception">"No network available, please check your WiFi or Data connection"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
